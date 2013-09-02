@@ -1,9 +1,9 @@
-Web Literacy Standard
+Référentiel de Compétences Web
 =====================
 
-The Connecting strand is made up of the following competencies:
+Le chapitre Connecter comprend les compétences suivantes:
 
-* Sharing & Collaborating - jointly creating and providing access to Web resources
-* Community participation - getting involved in Web communities and understanding their practices
-* Privacy - examining the consequences of sharing data online
-* Open practices - helping to keep the Web democratic and universally accessible 
+* Partage & Collaboration - créer conjointement et assurer l'accès aux ressources Web
+* Participation Communautaire - s'impliquer dans les communautés Web et comprendre leurs pratiques
+* Vie Privée - examininer les consequences du partage de données en ligne
+* Practiques ouvertes - aider à maintenair un Web démocratique et accessible à tous

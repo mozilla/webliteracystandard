@@ -1,9 +1,9 @@
-Composing for the Web
+Composer pour le Web
 =====================
-_Creating content and making use of technologies for the Web_
+_Creation de contenu et utilisation de technologies pour le Web_
 
-The 'Composing for the Web' competency within the 'Building' strand is made up of the following skills:
+La compétence 'Composer pour le Web' incluse dans le chapitre 'Construire' est ainsi subdivisée en savoir-faire::
 
-* Inserting hyperlinks into a Web page
-* Embedding multimedia content into a Web page
-* Creating Web resources in ways appropriate to the medium/genre   
+* Insérer des hyperliens dans une page Web
+* Intégrer du contenu multimédia dans une page Web
+* Créer des ressources Web adaptées au moyen/genre   

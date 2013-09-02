@@ -1,12 +1,12 @@
-Web Literacy Standard
+Référentiel de Compétences Web
 =====================
 
-The Building strand is made up of the following competencies:
+Le chapitre Contruire comprend les compétences suivantes:
 
-* Composing for the Web - creating content and making use of technologies for the Web
-* Remixing - modifying existing Web resources to create something new
-* HTML - reading and writing the building blocks of the Web
-* CSS - reading, writing, testing and applying style sheets to alter the visual appearance of HTML
-* Design & accessibility - creating universally effective communications through Web resources
-* Coding/scripting - creating interactive experiences on the Web
-* Infrastructure - understanding the Internet stack 
+* Composer pour Web - creation de contenu et utilisation de technologies pour le Web
+* Remixer - modifier existing des redsources Web existantes pour créer quelque chose de nouveau
+* HTML - lire et écrire les éléments constitutifs du Web
+* CSS - lire, écrire, tester and appliquer des feuilles de style sheets pour modifier l'apparance visualle du HTML
+* Design & accessibilité - utiliser les ressources Web pour communiquer de manière efficace et universelle
+* Codage/scripting - créer une experience interactive sur le Web
+* Infrastructure - comprendre la structure de l'Internet

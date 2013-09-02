@@ -1,10 +1,10 @@
 HTML
 ====
-_Reading and writing the building blocks of the Web_
+_Lire et écrire les éléments constitutifs du Web _
 
-The 'HTML' competency within the 'Building' strand is made up of the following skills:
+La compétence 'HTML' incluse dans le chapitre 'Construire' est ainsi subdivisée en savoir-faire:
 
-* Identifying and using HTML tags
-* Structuring a Web page
-* Manipulating HTML tags to alter the structure of an existing Web page
-* Debugging your own and other people's markup 
+* Identifier et utiliser des balises HTML
+* Structurer une page Web
+* Manipuler des balises HTML pour altérer la structure d'une page Web existante
+* Déboguer votre propre code et celui d'autres personnes 

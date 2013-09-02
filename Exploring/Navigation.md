@@ -1,10 +1,10 @@
 Navigation
 ==========
-_Using software tools to browse the Web_
+_Utilisation d'outils logiciels pour surfer sur le Web_
 
-The 'Navigation' competency within the 'Exploring' strand is made up of the following skills:
+La compétence 'Navigation' incluse dans le chapitre 'Explorer' est ainsi subdivisée en savoir-faire:
 
-* Accessing the Web using the common features of Web browsers
-* Using hyperlinks to access a range of resources on the Web
-* Recognising the visual cues in everyday Web services
-* Installing browser add-ons and extensions to provide additional functionality 
+* Accéder au Web en utilisant les fonctionnalités courantes des navigateurs Web
+* Utiliser des hyperliens pour accéder à différentes ressources sur le Web
+* Reconnaître les repères visuels dans les services Web de tous les jours
+* Installer des modules compémentaires et des extensions pour apporter des fonctionnalités additionnelles
