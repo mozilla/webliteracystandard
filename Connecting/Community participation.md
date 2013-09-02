@@ -1,12 +1,12 @@
-Community participation
+Participation Communautaire
 =======================
-_Getting involved in Web communities and understanding their practices_
+_S'impliquer dans les communautés Web et comprendre leurs pratiques_
 
-The 'Community participation' competency within the 'Building' strand is made up of the following skills:
+La compétence 'Participation Communautaire' incluse dans le chapitre 'Connecter' est ainsi subdivisée en savoir-faire:
 
-* Encouraging participation in Web communities
-* Using constructive criticism in a group or community setting
-* Configuring settings within tools used by online communities
-* Participating in both synchronous and asynchronous discussions
-* Expressing opinions appropriately in Web discussions
-* Defining different terminology used within online communities 
+* Encourager la participation dans les communautés Web
+* Utiliser la critiŋue constructiɓe dans une configuration de groupe ou de communauté
+* Configurer les paramètres des outils utilisés par les communautés en ligne
+* Participer à la fois aux discussions synchrones and asynchrones
+* Exprimer des opinions de manière appropriée dans les discussions Web
+* Definir les différentes terminologies utilisées dans les communautés en ligne

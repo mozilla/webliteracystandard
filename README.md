@@ -1,8 +1,8 @@
-Web Literacy Standard
+Référentiel des Compétences Web
 =====================
 
-The Web Literacy Standard is comprised of three strands:
+Le Référentiel de Compétences Web comprend trois branches:
 
-* Exploring - navigating the web
-* Building - creating for the web
-* Connecting - participating on the web 
+* Explorer - naviguer sur le web
+* Construire - créer pour le web
+* Connecter - participer au web

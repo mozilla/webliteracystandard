@@ -1,11 +1,11 @@
-Search
+Recherche
 ======
-_Locating information, people and resources via the Web_
+_Repèrer des information, des personnes et des ressources via the Web_
 
-The 'Search' competency within the 'Exploring' strand is made up of the following skills:
+La compétence 'Navigation' incluse dans le chapitre 'Explorer' est ainsi subdivisée en savoir-faire:
 
-* Using keyboard shortcuts to make Web searches more efficient
-* Entering search operators and keywords to find information efficiently
-* Finding real-time or time-sensitive information using a range of search techniques
-* Locating or finding desired information within search results
-* Synthesizing information found from online resources 
+* Utiliser des raccourcis clavier pour effectuer des recherches Web plus efficaces
+* Entrer des opérateurs de recherche et des mots-clé pour trouver des informations de manière efficace
+* Trouver des informations en temps réél ou urgente en utilisant diverses techniques de recherche
+* Repèrer ou trouɓer l'information recherchée dans les résultats de recherche
+* Synthétiser l'infotmation trouvée dans les ressources en ligne

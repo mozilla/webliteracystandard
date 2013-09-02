@@ -1,9 +1,9 @@
-Remixing
+Remixer
 ========
-_Modifying existing Web resources to create something new_
+_Modifier existing des redsources Web existantes pour créer quelque chose de nouveau _
 
-The 'Remixing' competency within the 'Building' strand is made up of the following skills:
+La compétence 'Remixer' incluse dans le chapitre 'Construire' est ainsi subdivisée en savoir-faire:
 
-* Identifying and using openly-licensed work
-* Combining multimedia resources
-* Creating something new on the Web using existing resources 
+* Identifier et utiliser du travail à licence ouverte
+* Combiner des ressources multimédia
+* Créer quelque chose de nouveau sur le Web en utilisant des ressources existantes

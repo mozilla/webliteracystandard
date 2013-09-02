@@ -1,9 +1,9 @@
-Security
+Securité
 ========
-_Keeping systems, identities, and content safe_
+_Maintenir la sécurité des systèmes, des identités, et des contenus _
 
-The 'Security' competency within the 'Exploring' strand is made up of the following skills:
+La compétence 'Securité' incluse dans le chapitre 'Explorer' est ainsi subdivisée en savoir-faire:
 
-* Detecting online scams and 'phishing' by employing recognized tools and techniques
-* Encrypting data and communications using software and add-ons
-* Changing the default behavior of websites, add-ons and extensions to make Web browsing more secure 
+* Détecter des abus et hameçonnages sur internnet en utilisant des outils et techniques éprouvés
+* Crypter les données et les communications en utilisant des logiciels et des extensions
+* Changer le comportement par défaut des sites web, des modules complémentaires et des extensions pour une navigation plus sécurisée
